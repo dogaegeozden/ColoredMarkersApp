@@ -1,7 +1,3 @@
-Here's a visually appealing markdown file to promote your Colored Markers app on GitHub:
-
----
-
 # Welcome to CSS Colored Markers 🎨✨
 
 The CSS Colored Markers app offers a delightful collection of colorful markers created purely with CSS. Dive into a world of creativity and explore the vibrant hues of these markers!
