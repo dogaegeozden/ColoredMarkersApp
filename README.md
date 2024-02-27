@@ -2,9 +2,9 @@ Here's a visually appealing markdown file to promote your Colored Markers app on
 
 ---
 
-# Welcome to CSS Color Markers 🎨✨
+# Welcome to CSS Colored Markers 🎨✨
 
-The CSS Color Markers app offers a delightful collection of colorful markers created purely with CSS. Dive into a world of creativity and explore the vibrant hues of these markers!
+The CSS Colored Markers app offers a delightful collection of colorful markers created purely with CSS. Dive into a world of creativity and explore the vibrant hues of these markers!
 
 ## Markers Collection
 
@@ -19,7 +19,7 @@ The CSS Color Markers app offers a delightful collection of colorful markers cre
 
 ## About
 
-CSS Color Markers is a simple yet captivating project that showcases the versatility of CSS in creating visually appealing elements. Each marker is meticulously designed to evoke a sense of creativity and joy.
+CSS Colored Markers is a simple yet captivating project that showcases the versatility of CSS in creating visually appealing elements. Each marker is meticulously designed to evoke a sense of creativity and joy.
 
 ## Screenshots
 
