@@ -5,13 +5,10 @@ The CSS Colored Markers app offers a delightful collection of colorful markers c
 ## Markers Collection
 
 ### Red Marker 🟥
-![Red Marker](https://via.placeholder.com/150x300/FF5733/000000?text=Red+Marker)
 
 ### Green Marker 🟩
-![Green Marker](https://via.placeholder.com/150x300/33FF77/000000?text=Green+Marker)
 
 ### Blue Marker 🔵
-![Blue Marker](https://via.placeholder.com/150x300/3388FF/000000?text=Blue+Marker)
 
 ## About
 
